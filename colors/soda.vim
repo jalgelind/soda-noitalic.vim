@@ -41,7 +41,7 @@ hi ErrorMsg ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi WarningMsg ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi Float ctermfg=97 ctermbg=NONE cterm=NONE guifg=#7653c1 guibg=#f3f2ff gui=NONE
 hi Function ctermfg=64 ctermbg=NONE cterm=NONE guifg=#61862f guibg=NONE gui=NONE
-hi Identifier ctermfg=235 ctermbg=NONE cterm=NONE guifg=#222222 guibg=NONE gui=italic
+hi Identifier ctermfg=235 ctermbg=NONE cterm=NONE guifg=#222222 guibg=NONE gui=NONE
 hi Keyword ctermfg=64 ctermbg=NONE cterm=NONE guifg=#61862f guibg=NONE gui=NONE
 hi Label ctermfg=161 ctermbg=NONE cterm=NONE guifg=#bc670f guibg=#fffdf7 gui=NONE
 hi NonText ctermfg=254 ctermbg=255 cterm=NONE guifg=#e0e0e0 guibg=#ffffff gui=NONE
@@ -51,7 +51,7 @@ hi PreProc ctermfg=64 ctermbg=NONE cterm=NONE guifg=#61862f guibg=NONE gui=NONE
 hi Special ctermfg=0 ctermbg=NONE cterm=NONE guifg=#000000 guibg=NONE gui=NONE
 hi SpecialKey ctermfg=254 ctermbg=NONE cterm=NONE guifg=#e6e6e6 guibg=NONE gui=NONE
 hi Statement ctermfg=64 ctermbg=NONE cterm=NONE guifg=#61862f guibg=NONE gui=NONE
-hi StorageClass ctermfg=235 ctermbg=NONE cterm=NONE guifg=#222222 guibg=NONE gui=italic
+hi StorageClass ctermfg=235 ctermbg=NONE cterm=NONE guifg=#222222 guibg=NONE gui=NONE
 hi String ctermfg=161 ctermbg=NONE cterm=NONE guifg=#bc670f guibg=#fffdf7 gui=NONE
 hi Tag ctermfg=25 ctermbg=NONE cterm=NONE guifg=#2f6f9f guibg=#f4faff gui=NONE
 hi Title ctermfg=0 ctermbg=NONE cterm=bold guifg=#000000 guibg=NONE gui=bold
@@ -59,7 +59,7 @@ hi Todo ctermfg=248 ctermbg=NONE cterm=inverse,bold guifg=#adadad guibg=NONE gui
 hi Type ctermfg=53 ctermbg=NONE cterm=NONE guifg=#3a1d72 guibg=NONE gui=NONE
 hi Underlined ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
 hi rubyClass ctermfg=64 ctermbg=NONE cterm=NONE guifg=#61862f guibg=NONE gui=NONE
-hi rubyFunction ctermfg=235 ctermbg=NONE cterm=NONE guifg=#222222 guibg=NONE gui=italic
+hi rubyFunction ctermfg=235 ctermbg=NONE cterm=NONE guifg=#222222 guibg=NONE gui=NONE
 hi rubyInterpolationDelimiter ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi rubySymbol ctermfg=64 ctermbg=NONE cterm=bold guifg=#61862f guibg=NONE gui=bold
 hi rubyConstant ctermfg=53 ctermbg=NONE cterm=NONE guifg=#3a1d72 guibg=NONE gui=NONE
@@ -89,7 +89,7 @@ hi htmlEndTag ctermfg=64 ctermbg=NONE cterm=NONE guifg=#61862f guibg=NONE gui=NO
 hi htmlTagName ctermfg=64 ctermbg=NONE cterm=NONE guifg=#61862f guibg=NONE gui=NONE
 hi htmlArg ctermfg=64 ctermbg=NONE cterm=NONE guifg=#61862f guibg=NONE gui=NONE
 hi htmlSpecialChar ctermfg=0 ctermbg=NONE cterm=NONE guifg=#000000 guibg=NONE gui=NONE
-hi javaScriptFunction ctermfg=235 ctermbg=NONE cterm=NONE guifg=#222222 guibg=NONE gui=italic
+hi javaScriptFunction ctermfg=235 ctermbg=NONE cterm=NONE guifg=#222222 guibg=NONE gui=NONE
 hi javaScriptRailsFunction ctermfg=64 ctermbg=NONE cterm=NONE guifg=#61862f guibg=NONE gui=NONE
 hi javaScriptBraces ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi yamlKey ctermfg=25 ctermbg=NONE cterm=NONE guifg=#2f6f9f guibg=#f4faff gui=NONE
